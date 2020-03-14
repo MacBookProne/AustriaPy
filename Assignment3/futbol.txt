@@ -1,0 +1,18 @@
+Max goals in League: 48
+Max goals in Cup: 7
+Max goals in Europe: 17
+Max goals in League, Cup and Europe: 48
+Min goals in League: 25
+Min goals in Cup: 0
+Min goals in Europe: 6
+Min goals in League, Cup and Europe: 0
+Number of Years with 0 goals at League is 0 out of 8
+Number of Years with 0 goals at Cup is 2 out of 8
+Number of Years with 0 goals at Europe is 0 out of 8
+Total goals - League: 285, Cup: 22, Europe: 88, All competitions: 395
+Average goals - League: 35.625, Cup: 2.75, Europe: 11.0
+[[26 40 46 34 31 48 35 25]
+ [ 0  7  3  7  3  1  0  1]
+ [ 7  6 10 12 17 10 16 10]]
+League: second and third year: [40 46]
+Cup: second and third year: [7 3]
