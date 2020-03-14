@@ -61,7 +61,7 @@
   <h2>Submission</h2>
 
   <p>
-    Before lab ends, e-mail a copy of <b>Lab3FirstLast.java</b> to your
+    Before lab ends, e-mail a copy of <b>Lab3FirstLast.py</b> to your
     lab TA.  The subject of the e-mail should be CSCI 111, Lab 3,
     your lab time, your name, your partner's name at the top of your document.
     To receive credit, this e-mail must be sent before your
