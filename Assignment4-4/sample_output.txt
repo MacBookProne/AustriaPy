@@ -1,0 +1,98 @@
+THIS IS AN EXAMPLE CONSOLE OUTPUT AFTER RUNNING THE movies.py SCRIPT AND GOING THROUGH ALL THE OPTIONS. USE THIS FOR REFERENCE
+
+>>>python movies.py
+
+ MENU:
+--------------------------------------
+1. Top 10 all time movies
+2. Show movie information
+3. Analyze movies by country and year
+4. Show top 10 directors statistics
+5. Exit
+--------------------------------------
+
+
+Choose an option (1-5): 1
+Choose a metric (budget/gross/imdb/likes): gross
+
+Top 10 movies with highest gross:
+
+Avatar
+Titanic
+Jurassic World
+The Avengers
+The Avengers
+The Dark Knight
+Star Wars: Episode I - The Phantom Menace
+Star Wars: Episode IV - A New Hope
+Avengers: Age of Ultron
+The Dark Knight Rises
+
+ MENU:
+--------------------------------------
+1. Top 10 all time movies
+2. Show movie information
+3. Analyze movies by country and year
+4. Show top 10 directors statistics
+5. Exit
+--------------------------------------
+
+
+Choose an option (1-5): 2
+Enter a movie name: Interstellar
+
+The movie 'Interstellar' directed by Christopher Nolan, was released in USA in the year 2014. The budget of the movie was 165000000$ and it brought in 187991439$. The movie received an imdb score of 8.6 and 349000 of facebook likes.
+
+ MENU:
+--------------------------------------
+1. Top 10 all time movies
+2. Show movie information
+3. Analyze movies by country and year
+4. Show top 10 directors statistics
+5. Exit
+--------------------------------------
+
+
+Choose an option (1-5): 3
+Enter a country (type 'list' for a list of available countries): USA
+Enter a year (1916-2016): 1989
+
+30 movies were filmed in USA during 1989. The movie with the highest budget (69500000.0$), was 'The Abyss', and the movie with lowest budget (160000.0$), was 'Roger & Me'. The movie with the highest gross (251188924.0$), was 'Batman' (with an IMDB rating of 7.6 and 12000 facebook likes).
+
+ MENU:
+--------------------------------------
+1. Top 10 all time movies
+2. Show movie information
+3. Analyze movies by country and year
+4. Show top 10 directors statistics
+5. Exit
+--------------------------------------
+
+
+Choose an option (1-5): 4
+
+
+    # |      Director name | Movies directed |    Avg Gross |     Avg IMDB |    Avg likes
+------------------------------------------------------------------------------------------
+    1 |   Steven Spielberg |              26 |    164569324 |            7 |        17153
+    2 |        Woody Allen |              22 |     16228707 |            7 |         7351
+    3 |    Martin Scorsese |              20 |     51127062 |            7 |        16696
+    4 |     Clint Eastwood |              20 |     72543215 |            7 |        13385
+    5 |       Ridley Scott |              17 |     78692452 |            7 |        28994
+    6 |         Tim Burton |              16 |    129454717 |            6 |        15250
+    7 |          Spike Lee |              16 |     21900028 |            6 |          312
+    8 |  Steven Soderbergh |              16 |     65670602 |            6 |         9852
+    9 |       Renny Harlin |              15 |     34931729 |            5 |         1739
+   10 |       Oliver Stone |              14 |     52291747 |            6 |         4052
+
+ MENU:
+--------------------------------------
+1. Top 10 all time movies
+2. Show movie information
+3. Analyze movies by country and year
+4. Show top 10 directors statistics
+5. Exit
+--------------------------------------
+
+
+Choose an option (1-5): 5
