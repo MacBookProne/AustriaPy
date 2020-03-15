@@ -1,0 +1,21 @@
+My meal: 
+apple is a fruit and has 52 calories.
+banana is a fruit and has 94 calories.
+cheeseburger has 263 calories.
+Snickers is candy and has 488 calories.
+KitKat is candy and has 518 calories.
+pear is a fruit and has 57 calories.
+Kinder Surprise is candy and has 113 calories.
+Total calories 1585
+
+Is an apple and a banana together more calories than a cheeseburger?
+Answer: False
+
+Is an apple a fruit?
+Answer: True
+
+Is a cheeseburger a fruit?
+Answer: False
+
+How many calories do 3 apples have?
+Answer: 156
