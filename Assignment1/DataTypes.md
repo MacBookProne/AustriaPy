@@ -16,6 +16,7 @@
     The purpose of this in-lab is to introduce you to the concept of data types in python.
     To understand the concept of data types.
     To familiarize yourself with basic numeric data types in python.
+    </p>
 
   ### Examples of Data types
     <ul>
@@ -26,7 +27,7 @@
   <li>Arithmetic Operators: +, -, *, /, //, %, **</li>
   <li>User Input: input</li>
   </ul>
-  </p>
+
 
   <h2>Partners</h2>
 
