@@ -20,7 +20,7 @@
 
   ### Examples of Data types
 
-  
+
   <li>Simple Python Types: int(eger), float, str(ing)</li>
   <li>Determining Type: type
   <li>Declaring and Using Variables</li>
@@ -72,7 +72,7 @@
   <h2>Submission</h2>
 
   <p>
-    Before lab ends, e-mail a copy of <b>Lab1FirstLast.java</b> to your
+    Before lab ends, e-mail a copy of <b>Lab1FirstLast.py</b> to your
     lab TA.  The subject of the e-mail should be CSCI 111, Lab 1,
     your lab time, your name, your partner's name at the top of your document.
     To receive credit, this e-mail must be sent before your
