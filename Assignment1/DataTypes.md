@@ -17,10 +17,10 @@
     To understand the concept of data types.
     To familiarize yourself with basic numeric data types in python.
 
-    <h3> Examples of Data types</h3>
+  ### Examples of Data types
     <ul>
   <li>Simple Python Types: int(eger), float, str(ing)</li>
-  <li>Determing Type: type
+  <li>Determining Type: type
   <li>Declaring and Using Variables</li>
   <li>Assignment Token: =</li>
   <li>Arithmetic Operators: +, -, *, /, //, %, **</li>
