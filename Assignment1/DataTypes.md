@@ -19,14 +19,15 @@
     </p>
 
   ### Examples of Data types
-    <ul>
+
+  
   <li>Simple Python Types: int(eger), float, str(ing)</li>
   <li>Determining Type: type
   <li>Declaring and Using Variables</li>
   <li>Assignment Token: =</li>
   <li>Arithmetic Operators: +, -, *, /, //, %, **</li>
   <li>User Input: input</li>
-  </ul>
+
 
 
   <h2>Partners</h2>
