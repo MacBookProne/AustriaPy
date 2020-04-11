@@ -1,1 +1,1 @@
-this is a repo for my program i made in Austria
+This is a repository for my program i made in Austria.
