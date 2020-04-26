@@ -25,7 +25,7 @@
   <li>Determining Type: type
   <li>Declaring and Using Variables</li>
   <li>Assignment Token: =</li>
-  <li>Arithmetic Operators: +, -, *, /, //, %, **</li>
+  <li>Arithmetic Operators: +, -, *, /, //, %, ** </li>
   <li>User Input: input</li>
 
 
