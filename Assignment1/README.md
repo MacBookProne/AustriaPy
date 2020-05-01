@@ -85,7 +85,7 @@
   <ul>
     <b><li>2 points.</b>  Two points will be given for correctly using float variables to store the height and weight. </li>
     <b><li>2 points.</b>  Two points will be given for correctly calculating how many characters are in your name. </li>
-   <b> <li>2 points.</b>  One point will be given for introduction of the two new variables in type integer. One point will be given for converting height/weight, inch/lb, and (centimeters/kilograms) </li>
+   <b> <li>2 points.</b>  One point will be given for introduction of the two new variables in type integer. One point will be given for converting height/weight, inch/lb, and (centimeters/kilograms). </li>
     <b><li>2 points.</b>  One point will be given for calculating the BMI. One Point will be given for introducing a new float variable.  </li>
     <b><li>1 points.</b>  One point will be given for printing a summary.  </li>
     <b><li>1 points.</b>  One point will be given for adding comments explaining implementation of your program. </li>
