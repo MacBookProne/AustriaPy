@@ -13,9 +13,8 @@
   <h2>Purpose</h2>
 
   <p>
-    The purpose of this in-lab is to introduce you to the concept of data types in python.
-    To understand the concept of data types.
-    To familiarize yourself with basic numeric data types in python.
+    The purpose of this in-lab is to introduce you to the concept of data types in python and to better understand
+    the concepts of them.
     </p>
 
   ### Examples of Data types
